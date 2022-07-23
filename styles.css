@@ -1,0 +1,147 @@
+.btn {
+    -webkit-border-radius: 4;
+    -moz-border-radius: 4;
+    border-radius: 4px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 15px;
+    background:hsl(217, 73%, 53%);
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    cursor: pointer;
+    position: relative;
+    left: 1270px;
+    margin-left: 10px;
+  }
+  .ima{
+    float: right;
+    position: relative;
+    right: 160px;
+    top: 5px;
+    font-family: sans-serif;
+    font-size: 13px;
+  }
+  .mail{
+    position: relative;
+    left: 1160px;
+    font-family: sans-serif;
+    font-size: 13px;
+  }
+  .btn:hover {
+    background: #5498ff;
+    text-decoration: none;
+  }
+  .app{
+    height: 25px;
+    width: 25px;
+    align-self: left;
+    cursor: pointer;
+    padding: 0;
+    margin: 0;
+    float: right;
+    position: relative;
+    top: 7px;
+    right: 70px
+}
+.app:hover{
+    box-shadow: grey;
+}
+ .go{
+    height: 90px;
+    width: 270px;
+    margin-left: 80px;
+ }
+ 
+.mid{
+    margin: 210px 500px 0px 500px;
+}
+a{
+    display: inline-block;
+    color: black;
+    text-decoration: none;
+    padding: 5px;
+
+}
+a:hover{
+    text-decoration: underline;
+}
+.top{
+    margin-right: 0;
+    padding-right: 0;
+    border-right: 0;
+}
+.voice{
+    height:20px;
+    position:relative;
+    bottom:33px;
+    left:440px;
+  }
+  .searchbar{
+    margin-top: 30px;
+    height: 40px;
+    width: 500px;
+    position: relative;
+    right: 40px;
+    border-radius: 25px;
+    border-color: lightgray;
+    border-right: 100px;
+    font-size: 18px;
+}
+.btn2 {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0px;
+    font-family: Arial;
+    color: #000000;
+    font-size: 15px;
+    background: #ededed;
+    padding: 10px 15px 10px 15px;
+    text-decoration: none;
+    position: relative;
+    left: 570px;
+}
+  
+  .btn2:hover {
+    background: #ededed;
+    text-decoration:none;
+    margin-top: 0;
+
+  }
+.bot{
+    margin-top: 0;
+    padding-top: 0;
+    border: 0;
+}
+.btn3 {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0px;
+    font-family: Arial;
+    color: #000000;
+    font-size: 15px;
+    background: #ededed;
+    padding: 10px 15px 10px 15px;
+    text-decoration: none;
+    position: relative;
+    left: 575px;
+  }
+  
+  .btn3:hover {
+    background: #ededed;
+    text-decoration: none;
+  }
+  .lan{
+    color: darkblue;
+    font-size: 15px;
+    position: relative;
+    left: 550px;
+    bottom:40px;
+  }
+  .off{
+    position: relative;
+    left: 430px;
+    font-size: 15px;
+    width: fit-content;
+    font-family: sans-serif;
+  }
+  
